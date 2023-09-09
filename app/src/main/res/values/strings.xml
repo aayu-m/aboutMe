@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aayushi Mittal</string>
+    <string name="big_star_image">big star image</string>
+    <string name="bio">Hello, myself Aayushi and I graduated from IIT Roorkee.
+        My programming journey started with C++, which led me to explore competitive programming, game development, and web projects.
+I have worked on creating applications using React.js, Node.js, Django and MongoDB.
+        I am also well-versed in data structures and algorithms.
+        One of my achievements is a complete full fledged project built with the MERN stack.
+        Right now, I am contributing as a software developer in a tech giant, focusing on Android development.
+</string>
+    <string name="done">Done</string>
+    <string name="whats_your_name">whats your name?</string>
+</resources>
